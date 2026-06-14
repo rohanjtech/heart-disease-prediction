@@ -514,4 +514,4 @@ Aspiring Machine Learning Engineer | Data Science Enthusiast | Python Developer
 
 GitHub: https://github.com/rohanjtech
 
-LinkedIn: https://www.linkedin.com/in/rohan-pagare-5a0444249/
+LinkedIn: https://www.linkedin.com/in/rohanpagare-analytics
